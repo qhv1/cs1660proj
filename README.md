@@ -13,4 +13,4 @@
 * Upload MapReduce.jar into that bucket
 * Submit a job using the MapReduce.jar file provided, similar to how it is used in the video
 
-Video: 
+Video: https://www.youtube.com/watch?v=OYmGN5RpqvI
